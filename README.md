@@ -17,4 +17,3 @@ Steve's Carts Reborn is licensed under the MIT license. Full license is  in **LI
 # Translation
 
 Steve's Carts Reborn is available in a range of diffrent languages, if you want to help out translate the mod please see our crowdin project at [https://crowdin.com/project/steves-carts](https://crowdin.com/project/steves-carts) The translations are automaticly included in the jar files at build time.
-
